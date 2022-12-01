@@ -1,0 +1,2 @@
+# JavaLife
+some java notes
